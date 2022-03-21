@@ -1,0 +1,6 @@
+name: FirstPlugin
+version: '${project.version}'
+main: me.test.dunger.Dunger
+api-version: 1.16
+authors: [ year ]
+description: FirstPlugin
